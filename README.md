@@ -1,1 +1,1 @@
-# Starter-Blocks-Template
+# Blank starter Zesty template
