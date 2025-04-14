@@ -1,1 +1,0 @@
-# Blank starter Zesty template
